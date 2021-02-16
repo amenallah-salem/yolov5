@@ -189,6 +189,7 @@ def main():
     transformer = Transformer(xml_dir=xml_dir, out_dir=out_dir, class_file=class_file)
     transformer.transform()
 
+  
 
 if __name__ == "__main__":
     main()
