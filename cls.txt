@@ -1,0 +1,5 @@
+#a txt file that contains classes names for convertion from xml to txt
+airplane
+car
+bicycle
+person
